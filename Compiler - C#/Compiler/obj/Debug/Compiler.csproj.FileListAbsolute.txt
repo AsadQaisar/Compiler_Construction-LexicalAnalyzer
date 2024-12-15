@@ -1,0 +1,24 @@
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\bin\Debug\test_code.txt
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\bin\Debug\Compiler.exe.config
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\bin\Debug\Compiler.exe
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\bin\Debug\Compiler.pdb
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\obj\Debug\Compiler.exe
+E:\Semester VI\CC by MF\CC\compiler-master\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\bin\Debug\test_code.txt
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\bin\Debug\Compiler.exe
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\obj\Debug\Compiler.exe
+C:\Users\Asad Qaisar\Downloads\compiler-master-20231029T161748Z-001\compiler-master\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\bin\Debug\test_code.txt
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\bin\Debug\Compiler.exe
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\obj\Debug\Compiler.exe
+C:\Users\Asad Qaisar\Desktop\VS.net\compiler-master\Compiler\obj\Debug\Compiler.pdb
