@@ -27,8 +27,8 @@ The project demonstrates the first stage of a compiler — **Lexical Analysis** 
 
 ## Files
 
-- **Python Implementation**: `lexical_analyzer.py`
-- **C# Implementation**: `LexicalAnalyzer.cs`
+- **Python Implementation**: `Compiler - Python`
+- **C# Implementation**: `Compiler - C#`
 
 ---
 
